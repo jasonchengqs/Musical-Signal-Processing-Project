@@ -1,0 +1,1 @@
+"./C5515_AIC3204_setup.obj" "./C5515_UART.obj" "./C55_setup.obj" "./InitializeC55xxCPU.obj" "./Support_Plotting_1_1.obj" "./WP_packet_support.obj" "./cbrev32.obj" "./cfft32_noscale.obj" "./cfft32_scale.obj" "./cifft32_noscale.obj" "./cifft32_scale.obj" "./main.obj" "./main0.obj" "./twiddle32.obj" "./vectors.obj" "../fft_lnkx.cmd" "../usbstk5515bsl.lib" -l"libc.a" 
